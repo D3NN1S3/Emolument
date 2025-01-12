@@ -41,4 +41,4 @@ A Python project to compute employee emoluments including SSNIT contributions, t
 ```
 
 ## Author
-Dennis - Ghana Communication Technology University
+Dennis Nyarko - 1725012194 - Ghana Communication Technology University
